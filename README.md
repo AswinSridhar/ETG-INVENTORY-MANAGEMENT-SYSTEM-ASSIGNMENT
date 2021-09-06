@@ -4,14 +4,14 @@ This repository is having all the codes with json files for making an Inventory 
 
 ### I have made an inventory management system
 1.I have used JSON file system for it.
-2.The Files , attached are
+### 2.The Files , attached are
          1)INVENTORY.JSON - It shows the total inventory.
                             The inventory consists of 30 products.
                             Each product has five attributes - ProductName
                                                                Price
                                                                Quantity
                                                                Manufacturing Date
-                                                               Expiring Date.
+                                                               Expiring Date.                
         2)ETG INVENTORY MANAGEMENT.ipynb -  It has the total code of the Project.
                                             In code we used 4 choices -- 1)Adding a product to inventory(For clarification,I added Two products Which is shown in the code)-In                                                                                adding process we will add a new product with all the attributes we need to display in inventory.
                                                                          2)Removing a Product To inventory- In this step we will remove a total product from the inventory.
